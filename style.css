@@ -15,6 +15,9 @@ padding-bottom: 22vmin;
   .intro-text{
     font-size: 20px !important; 
   }
+  .skills-sub{
+    font-size: 15px !important;
+  }
 }
 
 .intro-text{
@@ -66,6 +69,13 @@ padding-bottom: 22vmin;
   list-style: inside;
   list-style-type: circle;
 }
+.skills-sub{
+  font-size: 20px; 
+  font-weight: bold; 
+  display: inline-flex; 
+  align-items: center;
+}
+
 /* text animation css */
 .title-word {
     animation: color-animation 10s linear infinite;
